@@ -3,7 +3,7 @@
 
 # Description
 
-Riley's Space Adventure is a text-based RPG made in the Seattle Epicodus code school as one of our first major group projects. In it, you play Riley, Space Rabbit Extraodinaire where you come across a distress beacon. Adventure unfolds, and you're there to, hopefully, save the day. [Here](https://larryeby.github.io/week-5-group-project/) is a link to the live page!
+Riley's Space Adventure is a text-based RPG made in the Seattle Epicodus code school as one of our first major group projects. In it, you play Riley, Space Rabbit Extraodinaire where you come across a distress beacon. Adventure unfolds, and you're there to, hopefully, save the day. [Here](https://renee0506.github.io/space-adventure/) is a link to the live page!
 
 # Specs
 
